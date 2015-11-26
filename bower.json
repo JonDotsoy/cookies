@@ -7,13 +7,12 @@
   ],
   "license": "ISC",
   "keywords": [
-    "Library",
-    "browser"
+    "cookie"
   ],
   "moduleType": [
     "es6"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/JonDotsoy/cookies",
   "ignore": [
     "**/.*",
     "node_modules",
