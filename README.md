@@ -9,6 +9,15 @@ A library to browser that allowing control cookies.
 ![doc/img/ScreenCaseUseCreateACookie.gif](./doc/img/ScreenCaseUseCreateACookie.gif)
 
 
+
+Install
+------------
+
+```javascript
+bower install cookies
+```
+
+
 How get cookies?
 ----------------
 
