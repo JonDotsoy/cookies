@@ -7,7 +7,9 @@
   ],
   "license": "ISC",
   "keywords": [
-    "cookie"
+    "cookie",
+    "library",
+    "browser"
   ],
   "moduleType": [
     "es6"
