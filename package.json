@@ -1,6 +1,6 @@
 {
   "name": "cookies",
-  "version": "0.0.0",
+  "private": true,
   "description": "A library to browser that allowing control cookies.",
   "scripts": {
     "build": "gulp babel",
